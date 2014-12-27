@@ -39,7 +39,6 @@ delay = 1
 volts = 5
 
 while True:
-
         # Read the light sensor data
         light_level = ReadChannel(light_channel)
         light_volts = ConvertVolts(light_level, 2, volts)
