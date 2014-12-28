@@ -1,4 +1,6 @@
 #!/usr/bin/python
+# -*- coding: utf-8 -*-
+#
 # su
 # aptitude install python2.7-dev
 # aptitude install python-pip
